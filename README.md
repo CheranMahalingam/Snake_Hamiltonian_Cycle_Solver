@@ -1,4 +1,4 @@
-# Snake_Hamiltonian_Solver
+# Snake_Hamiltonian_Cycle_Solver
 An automated game solver of the popular 1997 game, Snake. It finds a Hamiltonian cycle using Prim's algorithm to provide the snake with a path that prevents it from colliding with a boundary or with itself.
 
 ## Prim's algorithm
